@@ -66,3 +66,16 @@ python uvm.py --binary=program.bin --result=result.xml --range=0-6
 python uvm.py --source=source.txt --binary=program.bin --log=log.xml
 
 ```
+
+
+
+## 5. Результаты прогона тестов 
+
+![изображение](https://github.com/user-attachments/assets/3159a0ab-e24b-470d-8046-b82135249a20)
+
+
+```bash
+python test_runner.py    
+
+```
+
