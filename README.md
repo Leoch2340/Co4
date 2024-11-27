@@ -42,3 +42,27 @@ python uvm.py --binary=program.bin --result=result.xml --range=0-6
 
 ```
 
+Для выполнения тестирования используйте следующую команду: 
+
+```bash
+python test_runner.py    
+
+```
+
+## 4. Примеры использования в виде скриншотов 
+
+![изображение](https://github.com/user-attachments/assets/f2e5893d-660d-41f6-9389-c2fa7011bcc0)
+
+
+```bash
+python uvm.py --binary=program.bin --result=result.xml --range=0-6
+
+```
+
+![изображение](https://github.com/user-attachments/assets/e41e092c-a317-476c-86d4-bcc7ac66ef42)
+
+
+```bash
+python uvm.py --source=source.txt --binary=program.bin --log=log.xml
+
+```
